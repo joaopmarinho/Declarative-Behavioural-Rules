@@ -37,7 +37,7 @@ The repository provides an example of how to model and evaluate business process
 
 ## 🔧 Technologies Used
 
-- Python 3.x
+- Python 3.10.12
 - Jupyter Notebook
 - Pandas
 - Custom implementation of Declare constraints

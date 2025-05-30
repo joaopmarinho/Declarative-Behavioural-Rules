@@ -14,12 +14,12 @@ The repository provides an example of how to model and evaluate business process
 
 ---
 
-## 📂 Structure
+## 📂 Structure  
 
-📁 Declarative-Behavioural-Rules
-├── declare.ipynb # Main notebook implementing declarative rules
-├── unidade_teste_1.csv # Sample dataset representing a process log
-└── README.md # Project documentation
+📁 Declarative-Behavioural-Rules  
+├── declare.ipynb # Main notebook implementing declarative rules  
+├── unidade_teste_1.csv # Sample dataset representing a process log  
+└── README.md # Project documentation  
 
 
 ### Key Components
